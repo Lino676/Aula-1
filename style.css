@@ -4,7 +4,7 @@ body {
     text-align: center;
 }
 h1 {
-    display: block;
+    display: flex;
     align-items: center;
     justify-content: center;
     background: linear-gradient(black, gray, black);
@@ -25,4 +25,5 @@ img {
     height: auto;
     border-radius: 20px;
     border: white, 3px, solid;
+
 }
