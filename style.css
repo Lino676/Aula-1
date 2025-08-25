@@ -21,9 +21,10 @@ p {
 }
 img {
     width: auto;
-    max-width: 1000px;
+    max-width: 65%;
     height: auto;
     border-radius: 20px;
     border: white, 3px, solid;
 
 }
+
